@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Welcome to Maxwell Olson's ECS
 
 You can use the [editor on GitHub](https://github.com/MaxwellRayOlson18/Ecs2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
